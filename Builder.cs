@@ -30,7 +30,7 @@
         {
 
 
-            Console.WriteLine("Enter anything value :");
+            Console.WriteLine("Enter  value :");
             string to_be_added = Console.ReadLine();
 
             File.Copy("STUB.EXE", "Kernsteinist.EXE",true);
